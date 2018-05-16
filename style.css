@@ -1,0 +1,11 @@
+body {
+    background-color: silver;
+}
+.jumbotron {
+    text-align: center;
+    border: 2px solid gray;
+}
+img {
+    width: 30%;
+    height: 30%;
+}
